@@ -1,0 +1,8 @@
+{
+    "home":"https://www.saucedemo.com/",
+    "userName" : "[data-test=\"username\"]",
+    "passWord" : "[data-test=\"password\"]",
+    "login" : "[data-test=\"login-button\"]",
+    "loginError": "[data-test='error']",
+    "resetAppState":"#reset_sidebar_link"
+}

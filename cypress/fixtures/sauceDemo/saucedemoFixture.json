@@ -1,0 +1,17 @@
+{
+    "userName1":"standard_user",
+    "userName2":"problem_user",
+    "userName3":"locked_out_user",
+    "passWord1":"secret_sauce",
+    "titleValidate":"Products",
+    "item1":"Sauce Labs Fleece Jacket",
+    "item2":"Sauce Labs Backpack",
+    "price":"$49.99",
+    "price2":"$29.99",
+    "hilo":"Price (high to low)",
+    "firstName":"Gary",
+    "lastName":"Hora",
+    "zip":"1234",
+    "checkOutSuccess":"Thank you for your order!",
+    "checkOutError":"Error: Last Name is required"
+}

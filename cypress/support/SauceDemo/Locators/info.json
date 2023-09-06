@@ -1,0 +1,10 @@
+{
+    "firstName":"[data-test='firstName']",
+    "lastName":"[data-test='lastName']",
+    "zip":"[data-test='postalCode']",
+    "checkOut":"[data-test='continue']",
+    "finish":"[data-test='finish']",
+    "checkOutSuccess":"#checkout_complete_container",
+    "backHome":"[data-test='back-to-products']",
+    "checkOutError":".error-message-container"
+}

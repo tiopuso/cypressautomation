@@ -1,0 +1,19 @@
+{
+    "applogo":".app_logo",
+    "products" : ".title",
+    "sort":"[data-test='product_sort_container']",
+    "hilo":"hilo",
+    "item1":"#item_5_title_link > .inventory_item_name",
+    "item2":"#item_4_title_link > .inventory_item_name",
+    "price":":nth-child(1) > .inventory_item_description > .pricebar > .inventory_item_price",
+    "addToCart":"[data-test='add-to-cart-sauce-labs-fleece-jacket']",
+    "addToCartNegative":"[data-test='add-to-cart-sauce-labs-backpack']",
+    "addToCartNegative2":"[data-test='add-to-cart-sauce-labs-bike-light']",
+    "removeToCart1":"[data-test='remove-sauce-labs-backpack']",
+    "removeToCart2":"[data-test='remove-sauce-labs-bike-light']",
+    "itemAdded":".shopping_cart_badge",
+    "cartIcon":".shopping_cart_link",
+    "hamburgerIcon":".bm-burger-button",
+    "logout":"#logout_sidebar_link",
+    "resetAppState":"#reset_sidebar_link"
+}

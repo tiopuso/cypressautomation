@@ -1,0 +1,10 @@
+{
+    "cartTitle":".title",
+    "item1":".inventory_item_name",
+    "price":".inventory_item_price",
+    "removeItem":"[data-test='remove-sauce-labs-fleece-jacket']",
+    "removeItem2":"[data-test='remove-sauce-labs-backpack']",
+    "continueShoping":"[data-test='remove-sauce-labs-fleece-jacket']",
+    "continueShoping2":"[data-test='remove-sauce-labs-backpack']",
+    "checkOut":"[data-test='checkout']"
+}
